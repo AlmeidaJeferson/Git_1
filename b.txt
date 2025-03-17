@@ -1,1 +1,5 @@
 Testando atualização do 
+
+Todas as alterações dentro de uma branch
+tem que ser commitada antes de mudar de branch se não
+o que mudar vai junto para a branch main
