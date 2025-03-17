@@ -6,3 +6,4 @@ de Arquivo
 enviando
 a funcionalidade
 X
+enviado a FUNCIONALIDADE B
